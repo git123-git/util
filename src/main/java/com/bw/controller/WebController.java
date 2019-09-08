@@ -25,6 +25,7 @@ public class WebController {
 			return 1;
 		}else {
 			//如果 是错误的
+			
 			return 0;
 		}
 		
